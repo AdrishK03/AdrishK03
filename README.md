@@ -370,21 +370,7 @@ Passionate About:
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=AdrishK03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=8E2DE2&text_color=FFFFFF"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishK03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF"
-/>
-
-</p>
 
 ---
 
