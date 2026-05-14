@@ -1,20 +1,349 @@
-https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Adrish+Karmakar;AI-Powered+Full+Stack+Developer;ML+Engineer+%7C+Backend+Developer;Building+Real-World+Intelligent+Systems<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Adrish+Karmakar;AI-Powered+Full+Stack+Developer;ML+Engineer+%7C+Backend+Developer;Building+Real-World+Intelligent+Systems" 
+  />
+</p>
 
-<a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<h3 align="center">🚀 AI-Powered Full Stack Developer</h3>
+
+<p align="center">
+Building intelligent, scalable, and impactful applications using AI, Full Stack Development, and IoT.
 </p>
 
 ---
 
-# 💻 Tech Stack
+<p align="center">
+  <a href="https://portfolio-ak-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  <a href="mailto:adrishk2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/adrish-karmakar-15338428b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/AdrishK03">
+    <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Adrish Karmakar
+Education: B.Tech ECS (2027)
+Focus: AI + Full Stack + IoT
+Location: Kolkata, India
+Passion: Building intelligent systems that solve real-world problems
+```
+
+🧠 Passionate about:
+- AI-powered applications
+- Scalable backend systems
+- Intelligent automation
+- Full stack development
+- IoT-integrated smart systems
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,mysql"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase"/>
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+---
+
+## ☁️ Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,render"/>
+</p>
+
+---
+
+# 🔌 IoT & Embedded Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Sensors-0A66C2?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌾 Krishisahyog
+
+AI-powered Smart Crop Advisory System featuring:
+
+✨ Plant Disease Detection  
+✨ Weather-Based Recommendations  
+✨ Crop Advisory  
+✨ IoT Monitoring  
+
+### 🛠️ Tech Stack
+React • FastAPI • EfficientNet • ML
+
+</td>
+
+<td width="50%">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 Citizen Grievance System
+
+NLP-powered complaint management platform with:
+
+✨ Complaint Classification  
+✨ Urgency Detection  
+✨ AI Analysis  
+✨ Admin Dashboard  
+
+### 🛠️ Tech Stack
+FastAPI • Scikit-learn • NLP • Streamlit
+
+</td>
+
+<td width="50%">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🎵 SpotifyClone
+
+Spotify-inspired backend application featuring:
+
+✨ JWT Authentication  
+✨ Playlist APIs  
+✨ User Management  
+✨ Protected Routes  
+
+### 🛠️ Tech Stack
+Node.js • Express.js • MongoDB
+
+</td>
+
+<td width="50%">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏥 HospitalLink
+
+Full-stack hospital management system featuring:
+
+✨ Appointment Management  
+✨ Patient Workflow Handling  
+✨ Admin Operations  
+✨ Healthcare Data Management  
+
+### 🛠️ Tech Stack
+HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQGfNHc6u4/giphy.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 💼 MyPortfolio
+
+Modern responsive developer portfolio website showcasing:
+
+✨ Projects  
+✨ Skills  
+✨ Experience  
+✨ Deployment Work  
+
+### 🛠️ Tech Stack
+React • Tailwind CSS • Vercel
+
+</td>
+
+<td width="50%">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Core CS Fundamentals
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-8E24AA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-E53935?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🔭 Currently Exploring
+
+- Advanced Backend Architecture
+- AI System Design
+- Real-Time AI Applications
+- Scalable REST APIs
+- IoT + AI Integrations
+- Full Stack Production Systems
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AdrishK03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" 
+    height="180em" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishK03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" 
+    height="180em" 
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AdrishK03&theme=tokyonight&no-frame=true&margin-w=10&row=1" 
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AdrishK03&theme=tokyo-night&hide_border=true" 
+    width="95%"
+  />
+</p>
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+  />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=AdrishK03&label=Profile%20Views&color=00F7FF&style=for-the-badge" 
+  />
+</p>
+
+---
+
+<h3 align="center">
+✨ Building impactful AI + Full Stack + IoT solutions one project at a time.
+</h3>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Frontend
