@@ -1,29 +1,4 @@
-<h1 align="center">Adrish Karmakar</h1>
-<h3 align="center">AI-Powered Full Stack Developer</h3>
-
-<p align="center">
-Building intelligent, scalable web applications that solve real-world problems.
-</p>
-
-<p align="center">
-B.Tech ECS (2027) student passionate about AI systems, backend engineering, and impactful full-stack products.
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/adrish-karmakar-15338428b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adrishk2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Adrish+Karmakar;AI-Powered+Full+Stack+Developer;ML+Engineer+%7C+Backend+Developer;Building+Real-World+Intelligent+Systems<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://yourportfolio.com" target="_blank">
