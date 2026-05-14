@@ -1,11 +1,7 @@
-<!-- ========================================================= -->
-<!--                    HERO SECTION                           -->
-<!-- ========================================================= -->
-
 <p align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Adrish%20Karmakar&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&desc=AI-Powered%20Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20IoT%20Innovator&descAlign=50&descAlignY=60&animation=fadeIn&color=0:8E2DE2,50:4A00E0,100:FF0080"
+src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Adrish%20Karmakar&fontAlign=50&fontAlignY=38&fontSize=65&fontColor=ffffff&desc=AI-Powered%20Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20IoT%20Innovator&descAlign=50&descAlignY=60&animation=fadeIn&color=0:FC466B,50:3F5EFB,100:8E2DE2"
 />
 
 </p>
@@ -13,7 +9,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Adrish%20
 <p align="center">
 
 <img 
-src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2500&pause=1000&color=FF0080&center=true&vCenter=true&width=1000&lines=Building+Real-World+AI+Systems;AI+Engineer+%7C+Backend+Architect;Full+Stack+Developer;IoT+%2B+Embedded+Systems+Explorer;Scalable+Intelligent+Applications"
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=1000&color=FF0080&center=true&vCenter=true&width=1000&lines=Building+Real-World+AI+Systems;Full+Stack+Developer+%7C+Backend+Architect;Machine+Learning+Engineer;IoT+%2B+Embedded+Systems+Explorer;Scalable+Intelligent+Applications"
 />
 
 </p>
@@ -50,12 +46,12 @@ Role: AI-Powered Full Stack Developer
 Education: B.Tech ECS (2027)
 Location: Kolkata, India
 
-Focus Areas:
+Passionate About:
   - Artificial Intelligence
   - Backend Engineering
   - Full Stack Development
   - IoT + Embedded Systems
-  - Scalable Intelligent Products
+  - Scalable Intelligent Systems
 ```
 
 ---
@@ -105,7 +101,7 @@ Focus Areas:
 <p align="center">
 
 <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge"/>
@@ -128,7 +124,7 @@ Focus Areas:
 <p align="center">
 
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge"/>
 
@@ -223,7 +219,9 @@ Focus Areas:
 
 # 🚀 Featured Projects
 
-## 🌾 Krishisahyog
+---
+
+# 🌾 Krishisahyog
 
 <p align="center">
 
@@ -235,11 +233,11 @@ Focus Areas:
 
 ### ✨ Features
 
-- AI Crop Advisory
-- Plant Disease Detection
-- Weather Recommendations
-- Smart Farming Assistance
-- IoT Integration
+- 🌱 AI Crop Advisory
+- 🍃 Plant Disease Detection
+- ☁️ Weather Recommendations
+- 📊 Smart Agricultural Insights
+- 🔌 IoT Monitoring Integration
 
 ### 🛠️ Tech Used
 
@@ -251,6 +249,143 @@ Focus Areas:
 <img src="https://img.shields.io/badge/Machine_Learning-8E24AA?style=for-the-badge"/>
 
 </p>
+
+---
+
+# 🧠 Citizen Grievance System
+
+### ✨ Features
+
+- Complaint Classification
+- Urgency Detection
+- NLP-based Processing
+- Real-time Dashboard
+
+### 🛠️ Tech Used
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎵 SpotifyClone
+
+### ✨ Features
+
+- JWT Authentication
+- Playlist APIs
+- User Management
+- Protected Routes
+
+### 🛠️ Tech Used
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏥 HospitalLink
+
+### ✨ Features
+
+- Appointment Management
+- Patient Workflows
+- Healthcare Data Handling
+- Admin Operations
+
+### 🛠️ Tech Used
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black"/>
+
+</p>
+
+---
+
+# 💼 MyPortfolio
+
+<p align="center">
+
+<a href="https://portfolio-ak-ten.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+### ✨ Features
+
+- Modern UI
+- Responsive Design
+- Project Showcase
+- Smooth Animations
+
+### 🛠️ Tech Used
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📚 Core CS Fundamentals
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-2962FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-E53935?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🔥 Currently Exploring
+
+- Advanced Backend Architecture
+- AI System Design
+- IoT + AI Integrations
+- Scalable REST APIs
+- Real-time ML Systems
+- Full Stack Production Apps
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AdrishK03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=8E2DE2&text_color=FFFFFF"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishK03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=FFFFFF"
+/>
+
+</p>
+
 ---
 
 # 📈 Contribution Graph
@@ -271,6 +406,18 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdrishK03&th
 
 <img
 src="https://github-profile-trophy.vercel.app/?username=AdrishK03&theme=tokyonight&no-frame=true&margin-w=15&row=1"
+/>
+
+</p>
+
+---
+
+# 💭 Developer Mindset
+
+<p align="center">
+
+<img
+src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
 />
 
 </p>
