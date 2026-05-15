@@ -296,7 +296,7 @@ Currently Exploring:
 🔹 JWT Authentication<br>
 🔹 bcrypt Password Hashing<br>
 🔹 Database Design<br>
-🔹 Authentication & Authorization<br>
+🔹 Authentication &         Authorization<br>
 🔹 CRUD Operations
 
 </div>
