@@ -283,7 +283,6 @@ Currently Exploring:
 🔹 Intelligent Automation  
 🔹 Deep Learning Workflows  
 
-</div>
 
 </td>
 
