@@ -316,6 +316,15 @@ Currently Exploring:
 
 ---
 
+# <div align="center">🐍 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐒𝐍𝐀𝐊𝐄</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AdrishK03/AdrishK03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+
 ## 📈 Contribution Activity
 
 <div align="center">
