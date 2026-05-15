@@ -148,7 +148,7 @@ Currently Exploring:
 
 | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>**Git** | <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>**GitHub** | <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>**Docker** | <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>**Postman** | <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>**Vercel** | <img src="https://skillicons.dev/icons?i=render" width="48"/><br/>**Render** |
+| <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>**Git** | <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>**GitHub** | <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>**Docker** | <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>**Postman** | <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>**Vercel** | <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000" height="32"/><br/>**Render** |
 
 </div>
 
@@ -321,20 +321,21 @@ Currently Exploring:
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AdrishK03/AdrishK03/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AdrishK03/AdrishK03/output/github-contribution-grid-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/AdrishK03/AdrishK03/output/github-contribution-grid-snake-dark.svg"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="github contribution grid snake animation"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+/>
 
 </picture>
 
