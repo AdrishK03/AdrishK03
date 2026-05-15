@@ -276,13 +276,13 @@ Currently Exploring:
 ### 🤖 AI Engineering
 <div align="left">
 
-* 🔹 Machine Learning Systems
-* 🔹 NLP Applications
-* 🔹 Predictive Analytics
-* 🔹 AI-Powered Platforms
-* 🔹 Real-Time Decision Systems
-* 🔹 Intelligent Automation
-* 🔹 Deep Learning Workflows
+ 🔹 Machine Learning Systems
+ 🔹 NLP Applications
+ 🔹 Predictive Analytics
+ 🔹 AI-Powered Platforms
+ 🔹 Real-Time Decision Systems
+ 🔹 Intelligent Automation
+ 🔹 Deep Learning Workflows
 
 </div>
 </td>
@@ -292,12 +292,12 @@ Currently Exploring:
 ### ⚙️ Backend Engineering
 <div align="left">
 
-* 🔹 REST API Development
-* 🔹 JWT Authentication
-* 🔹 bcrypt Password Hashing
-* 🔹 Database Design
-* 🔹 Authentication & Authorization
-* 🔹 CRUD Operations
+ 🔹 REST API Development
+ 🔹 JWT Authentication
+ 🔹 bcrypt Password Hashing
+ 🔹 Database Design
+ 🔹 Authentication & Authorization
+ 🔹 CRUD Operations
 
 </div>
 </td>
