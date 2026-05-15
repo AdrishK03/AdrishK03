@@ -275,7 +275,6 @@ Currently Exploring:
 
 ### 🤖 AI Engineering
 <div align="left">
-<u>
 🔹 Machine Learning Systems  
 🔹 NLP Applications  
 🔹 Predictive Analytics  
