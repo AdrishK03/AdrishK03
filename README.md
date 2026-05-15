@@ -23,9 +23,6 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ0MXQ5b3U1OWxvOHp3NzJhYTV6cm8xZm8wMHFuM2R0M2NrbmQzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
-
-```yaml
 Name    : Adrish Karmakar
 Role    : AI Systems Engineer
 Status  : OPEN_FOR_COLLABORATION
