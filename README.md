@@ -296,15 +296,13 @@ Currently Exploring:
 🔹 JWT Authentication<br>
 🔹 bcrypt Password Hashing<br>
 🔹 Database Design<br>
-🔹 Authentication & <span>     </span>Authorization<br>
+🔹 Authentication & Authorization<br>
 🔹 CRUD Operations
 
 </div>
 </td>
 </tr>
 </table>
-
-
 
 ## 🔥 Currently Building
 
