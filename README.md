@@ -44,7 +44,6 @@ Currently Exploring:
   - Distributed Backend Systems
   - Real-Time ML Infrastructure
   - AI + IoT Automation
-```
 
 <br clear="right"/>
 
