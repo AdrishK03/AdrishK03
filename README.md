@@ -49,35 +49,6 @@ Currently Exploring:
 
 ---
 
-## 🚀 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-adrish.vercel.app/api?username=AdrishK03&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats-adrish.vercel.app/api/top-langs/?username=AdrishK03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="42%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishK03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
-/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  width="42%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishK03&layout=donut&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
