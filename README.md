@@ -53,14 +53,14 @@ Currently Exploring:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrishK03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrishK03&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF4D8D&currStreakLabel=22D3EE"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrishK03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=AdrishK03&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishK03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishK03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,7 +70,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdrishK03&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdrishK03&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
 
 </div>
 
@@ -348,7 +348,7 @@ src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-gr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrishK03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=22D3EE&point=FF4D8D"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrishK03&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
