@@ -23,7 +23,6 @@
 
 ## 🧠 About Me
 
-```yaml
 Name    : Adrish Karmakar
 Role    : AI Systems Engineer
 Status  : OPEN_FOR_COLLABORATION
@@ -45,7 +44,8 @@ Currently Exploring:
   - Distributed Backend Systems
   - Real-Time ML Infrastructure
   - AI + IoT Automation
-```
+
+<br clear="right"/>
 
 ---
 
@@ -54,7 +54,7 @@ Currently Exploring:
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrishK03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=AdrishK03&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF4D8D&currStreakLabel=22D3EE"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrishK03&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF4D8D&currStreakLabel=22D3EE"/>
 
 </div>
 
@@ -305,7 +305,6 @@ Currently Exploring:
 </tr>
 </table>
 
----
 
 ## 🔥 Currently Building
 
@@ -324,14 +323,26 @@ Currently Exploring:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="github contribution grid snake animation"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+/>
+
 </picture>
 
 </div>
 
----
 
 ## 📈 Contribution Activity
 
